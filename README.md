@@ -35,3 +35,10 @@
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-FFB400?logo=python&logoColor=white)
 
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinaGre&layout=compact)
+## GitHub Statistics
+![AdelinaGre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelinaGre&show_icons=true&theme=radical)
+
+##🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdelinaGre)](https://github.com/ryo-ma/github-profile-trophy)
