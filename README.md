@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning ML, SAP, Salesforce
-- 👯 I’m looking to collaborate on data analysis, machin
+- 🌱 I’m currently learning Big Data, ML and data analysis in business areas (SAP, SaaS, Salesforce)
+
 
 
 ## 🔗 Socials
