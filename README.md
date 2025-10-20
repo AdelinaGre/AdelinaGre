@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Big Data, ML and data analysis in business areas (SAP, SaaS, Salesforce)
+- 🌱 I’m currently learning Big Data, creating ML models and Data Analysis in business areas (additionaly SAP, SaaS, Salesforce)
 
 
 
