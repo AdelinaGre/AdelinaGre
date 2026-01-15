@@ -36,7 +36,7 @@
 ![Tkinter](https://img.shields.io/badge/-Tkinter-FFB400?logo=python&logoColor=white)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinaGre&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinaGre)
 ## GitHub Statistics
 ![AdelinaGre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelinaGre&show_icons=true&theme=radical)
 
