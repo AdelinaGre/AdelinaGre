@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Big Data, creating ML models and Data Analysis in business areas.
+-I’m currently working on Big Data, ML model development, and business data analysis, with hands-on projects in Data Warehousing and Multi-Agent Systems.
 
 
 
